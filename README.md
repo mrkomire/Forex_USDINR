@@ -1,1 +1,2 @@
 # Forex_USDINR
+Exchange rates between different currencies fluctuate every day, making it difficult to know exactly how volatile they will be in the future. Stochastic volatility models utilizing the state-space framework can be used to forecast future volatility. These models are commonly used for financial time series and can provide useful insight for future risk. These models can be achieved by utilizing the stochvol package in R to obtain the log variance of time series and forecast the future stochastic volatility by utilizing Bayesian inference. 
